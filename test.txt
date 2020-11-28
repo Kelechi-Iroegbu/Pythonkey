@@ -1,0 +1,2 @@
+Val = 18
+print(val)
